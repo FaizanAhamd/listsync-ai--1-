@@ -52,7 +52,7 @@ export const Hero: React.FC = () => {
             Get Free Early Access
           </button>
           <a 
-            href="https://wa.me/910000000000?text=Hi, I want to see how ListSync works"
+            href="https://wa.me/9560154403?text=Hi, I want to see how ListSync works"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-10 py-5 bg-white border-2 border-[#2563EB] text-[#2563EB] font-bold rounded-2xl transition-all flex items-center justify-center gap-2 text-xl hover:bg-blue-50 shadow-[0_10px_40px_-10px_rgba(37,99,235,0.15)]"
